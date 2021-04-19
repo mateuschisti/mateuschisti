@@ -32,5 +32,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<p align="center">
 <a href="mateuschisti10@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mateuschisti10@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
