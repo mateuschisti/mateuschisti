@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Analysis and Systems Development at <a href="https://unopar.com.br/">Unopar</a>.
+- 🎓 &nbsp; Studying System Analysis and Development at <a href="https://unopar.com.br/">Unopar</a>.
 - 🌱 &nbsp; Learning more about ReactJS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
